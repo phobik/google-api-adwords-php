@@ -1,0 +1,7 @@
+# Sample Web Application #
+
+The AdWords API PHP Sample Web Application has been created to show how the PHP client library can be used in a web environment, specifically leveraging OAuth for authorization.  The functionality is very limited for now, showing the client accounts, campaigns within an account, and the details of a campaign.  The [Angular](http://angularjs.org/) JavaScript framework was used for the AJAX UI, with PHP files used to interact with the API.
+
+![http://google-api-adwords-php.googlecode.com/svn/wiki/images/webapp.png](http://google-api-adwords-php.googlecode.com/svn/wiki/images/webapp.png)
+
+To get started, [download the source code](http://code.google.com/p/google-api-adwords-php/downloads/list?can=2&q=Apps%3DSampleWebapp) and read through the [README](http://code.google.com/p/google-api-adwords-php/source/browse/apps/sample-webapp/README) for installation instructions.  We encourage you to modify the code and experiment with new functionality. If you develop a great feature let us know so we can upstream it in to the official source.  Bugs, feature requests, or contributions can be filed on the [issue tracker](http://code.google.com/p/google-api-adwords-php/issues/list) and any questions can be posted to the [AdWords API forum](http://code.google.com/apis/adwords/forum.html).
